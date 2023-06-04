@@ -1,9 +1,13 @@
 ## Getting Started
 
-Create a project using this example:
+Inicialize o projeto:
 
 ```bash
-npx thirdweb create --template next-typescript-starter
+yarn install
+```
+
+```bash
+yarn dev
 ```
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
